@@ -1,0 +1,7 @@
+{
+	  "cmd":
+	  	["/usr/bin/php7.3", "$file"],
+	  	"file_regex": "php$",
+		"selector": "source.php",
+		"working_dir": "${folder}"
+}
