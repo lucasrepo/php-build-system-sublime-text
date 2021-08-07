@@ -1,2 +1,2 @@
-# php-build-system-sublime-text
-A PHP build system for Sublime Text 3. Copy "PHP.sublime-build" and paste into your "/Packages/Users" folder.
+# A PHP build system for Sublime Text 3.
+Copy **_PHP.sublime-build_** and paste into your **_/Packages/Users_** folder. In GNU/Linux is **_~/.config/sublime-text-3/..._**. That's it! Ctrl-B to build.
